@@ -1,0 +1,813 @@
+{
+  "prohibidos": [
+    "¿Sabías que los servidores ineficaces consumen un 40% más de energía en verano? Es un chiste tecnológico muy irónico.",
+    "Un dato curioso: en la antigua Roma las personas no se reían de los mismos chistes que nosotros porque no tenían computadoras. Vaya por Dios, datos y chiste son dos cosas distintas."
+  ],
+  "ejemplos_buenos": {
+    "negro": [
+      {
+        "setup": "Mi abuelo sabía el día y la hora exacta en que iba a morir.",
+        "remate": "Se lo dijo el juez la semana pasada.",
+        "tagline": "Puntualidad británica."
+      },
+      {
+        "setup": "Compré un libro de autoayuda para aprender a lidiar con el duelo.",
+        "remate": "El autor falleció antes de terminar el prólogo.",
+        "tagline": "Un éxito póstumo."
+      },
+      {
+        "setup": "Le pregunté a mi médico si me quedaba mucho tiempo de vida.",
+        "remate": "Me dijo: 'Diez'. Le pregunté: '¿Diez qué?'. Y me contestó: 'Nueve, ocho, siete...'",
+        "tagline": null
+      }
+    ],
+    "acido": [
+      {
+        "setup": "El trabajo en equipo es fundamental en cualquier empresa moderna.",
+        "remate": "Te permite echarle la culpa a otro cuando todo sale mal.",
+        "tagline": "Sinergia pura."
+      },
+      {
+        "setup": "Tengo un plan financiero infalible para llegar a fin de mes.",
+        "remate": "Que el mes termine el día doce.",
+        "tagline": null
+      },
+      {
+        "setup": "La experiencia es ese maravilloso peine que te da la vida.",
+        "remate": "Justo cuando te quedaste completamente pelado.",
+        "tagline": "Ironías del destino."
+      }
+    ],
+    "absurdo": [
+      {
+        "setup": "¿Qué hace una abeja en el gimnasio?",
+        "remate": "¡Zumba!",
+        "tagline": null
+      },
+      {
+        "setup": "Iban dos tomates cruzando la avenida y uno le grita al otro: '¡Cuidado con el camión, chof!'.",
+        "remate": "Y el otro le responde: '¿Qué decís, sopa?'.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una impresora a otra en la oficina?",
+        "remate": "Esa hoja que llevás puesta ¿es tuya o es una impresión mía?",
+        "tagline": null
+      }
+    ],
+    "programador": [
+      {
+        "setup": "Un programador va al supermercado y su esposa le dice: 'Traé una botella de leche, y si hay huevos, traé seis'.",
+        "remate": "Volvió con seis botellas de leche porque había huevos.",
+        "tagline": "Lógica booleana pura."
+      },
+      {
+        "setup": "Hay 10 tipos de personas en el mundo.",
+        "remate": "Las que entienden binario y las que no.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los desarrolladores prefieren el modo oscuro?",
+        "remate": "Porque la luz siempre atrae a los bugs.",
+        "tagline": "Ciencia comprobada."
+      }
+    ],
+    "blanco": [
+      {
+        "setup": "¿Qué le dice un café a la leche cuando se cruzan?",
+        "remate": "¡Nos vemos en el desayuno!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se llama el primo vegetariano de Bruce Lee?",
+        "remate": "Broco Lee.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un cero a otro cero en la calculadora?",
+        "remate": "No somos nada.",
+        "tagline": null
+      }
+    ]
+  },
+  "banco": {
+    "negro": [
+      {
+        "setup": "Mi abuelo sabía el día y la hora exacta en que iba a morir.",
+        "remate": "Se lo dijo el juez la semana pasada.",
+        "tagline": "Puntualidad británica."
+      },
+      {
+        "setup": "Compré un libro de autoayuda para aprender a lidiar con el duelo.",
+        "remate": "El autor falleció antes de terminar el prólogo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es la diferencia entre un paracaidista y un programador?",
+        "remate": "El programador tiene una segunda oportunidad si algo no abre.",
+        "tagline": null
+      },
+      {
+        "setup": "Le pregunté a mi médico si me quedaba mucho tiempo de vida.",
+        "remate": "Me dijo: 'Diez'. Le pregunté: '¿Diez qué?'. Y me contestó: 'Nueve, ocho, siete...'",
+        "tagline": null
+      },
+      {
+        "setup": "El médico me dio dos noticias, una mala y otra peor.",
+        "remate": "La mala es que me quedan 24 horas. La peor es que se olvidó de avisarme ayer.",
+        "tagline": null
+      },
+      {
+        "setup": "Donar un riñón te convierte en un héroe social indiscutible.",
+        "remate": "Pero si donás cinco, la policía empieza a hacer preguntas incómodas.",
+        "tagline": null
+      },
+      {
+        "setup": "Me regalaron un reloj inteligente que predice el momento exacto de la muerte.",
+        "remate": "Cuando me lo puse empezó una cuenta regresiva de tres minutos.",
+        "tagline": null
+      },
+      {
+        "setup": "Ayer descubrí que el veneno para ratas tiene fecha de vencimiento.",
+        "remate": "Ahora no sé si se vuelve inofensivo o más letal.",
+        "tagline": "No pienso probarlo."
+      },
+      {
+        "setup": "Un caníbal vegetariano entra a un cementerio.",
+        "remate": "Y pide una ensalada de plantas.",
+        "tagline": null
+      },
+      {
+        "setup": "Fui al funeral de un electricista muy querido en el barrio.",
+        "remate": "En vez de flores le llevaron una corona con 220 voltios.",
+        "tagline": "Murió en su ley."
+      },
+      {
+        "setup": "¿Por qué los fantasmas son pésimos mintiendo?",
+        "remate": "Porque se les nota todo a través.",
+        "tagline": null
+      },
+      {
+        "setup": "El seguro de vida es una apuesta muy particular.",
+        "remate": "El único que gana es el que no está para cobrar la plata.",
+        "tagline": null
+      },
+      {
+        "setup": "Le pregunté al sepulturero si el turno noche era complicado.",
+        "remate": "Me dijo que los clientes nunca protestan por el servicio.",
+        "tagline": null
+      },
+      {
+        "setup": "Mi suegra dijo que quería ser cremada cuando le tocara partir.",
+        "remate": "Le dije que hiciera las valijas, que el turno es este jueves.",
+        "tagline": null
+      },
+      {
+        "setup": "Un hombre cae de un piso cincuenta y mientras cae le preguntan cómo va.",
+        "remate": "Contesta: 'Por ahora todo bien, lo que me preocupa es el aterrizaje'.",
+        "tagline": null
+      },
+      {
+        "setup": "El médico me dijo que comiera más verduras y saliera al aire libre.",
+        "remate": "Ahora como ensalada en el cementerio mientras elijo parcela.",
+        "tagline": "Hábitos saludables."
+      },
+      {
+        "setup": "Mi suegra me dijo: 'El día que me muera vas a llorar'.",
+        "remate": "Lloré, pero de la risa cuando vi el testamento.",
+        "tagline": null
+      },
+      {
+        "setup": "Le regalé un reloj carísimo a mi amigo ciego.",
+        "remate": "Dice que no ve la hora de usarlo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué es lo peor que te puede pasar en un velorio?",
+        "remate": "Que el difunto se levante a quejarse de la música.",
+        "tagline": "Exigente hasta el final."
+      },
+      {
+        "setup": "Dicen que el amor eterno dura para toda la vida.",
+        "remate": "Por suerte mi ex duró bastante menos.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los fantasmas son malos mintiendo?",
+        "remate": "Porque se les ve a través de todo, igual que a tu sinceridad.",
+        "tagline": null
+      },
+      {
+        "setup": "Compré un paracaídas usado en internet con 50% de descuento.",
+        "remate": "Nunca fue abierto, solo usado una vez.",
+        "tagline": "Oferta irrepetible."
+      },
+      {
+        "setup": "Ayer me llamaron del hospital para decirme que mi suegra tuvo una mejoría notable.",
+        "remate": "Casi me da un infarto del susto.",
+        "tagline": null
+      },
+      {
+        "setup": "El optimista ve la luz al final del túnel.",
+        "remate": "El pesimista ve la oscuridad. Y el maquinista ve a dos idiotas en las vías.",
+        "tagline": "Realismo puro."
+      },
+      {
+        "setup": "Mi tío quería morir en paz mientras dormía, como su abuelo.",
+        "remate": "Y no gritando desesperado como los pasajeros de su colectivo.",
+        "tagline": "Sueño reparador."
+      }
+    ],
+    "acido": [
+      {
+        "setup": "El trabajo en equipo es fundamental en cualquier oficina.",
+        "remate": "Te permite echarle la culpa a otro cuando todo explota.",
+        "tagline": "Sinergia corporativa."
+      },
+      {
+        "setup": "Tengo un plan financiero infalible para llegar cómodo a fin de mes.",
+        "remate": "Que el mes termine el día doce.",
+        "tagline": null
+      },
+      {
+        "setup": "La experiencia es ese peine de lujo que te regala la vida.",
+        "remate": "Justo cuando te quedaste completamente pelado.",
+        "tagline": null
+      },
+      {
+        "setup": "Le dije a mi terapeuta que siento que todos me ignoran.",
+        "remate": "O eso creo, porque todavía no levantó la vista del celular.",
+        "tagline": null
+      },
+      {
+        "setup": "No soy antisocial, simplemente tengo un criterio selectivo con mi disgusto.",
+        "remate": "Y me disgustan absolutamente todos.",
+        "tagline": null
+      },
+      {
+        "setup": "Me encanta el primer café de las mañanas.",
+        "remate": "Me da la energía exacta para tolerar a la gente con desprecio educado.",
+        "tagline": null
+      },
+      {
+        "setup": "Mi billetera funciona exactamente igual que una cebolla.",
+        "remate": "Cada vez que la abro me pongo a llorar.",
+        "tagline": null
+      },
+      {
+        "setup": "La paciencia es una virtud maravillosa.",
+        "remate": "Especialmente necesaria cuando los demás no usan el cerebro.",
+        "tagline": null
+      },
+      {
+        "setup": "Siempre cumplo el consejo de los médicos de dormir ocho horas diarias.",
+        "remate": "Cuatro en el escritorio y cuatro durante las reuniones de Zoom.",
+        "tagline": null
+      },
+      {
+        "setup": "La vida es idéntica a una montaña rusa.",
+        "remate": "Te marea, te revuelve el estómago y encima pagaste una fortuna para subirte.",
+        "tagline": null
+      },
+      {
+        "setup": "Dicen que el dinero no compra la felicidad.",
+        "remate": "Lo inventó alguien que nunca tuvo que pagar el alquiler el día diez.",
+        "tagline": null
+      },
+      {
+        "setup": "Me considero una persona sumamente positiva.",
+        "remate": "Siempre estoy convencido de que mañana todo puede empeorar.",
+        "tagline": null
+      },
+      {
+        "setup": "El amor eterno dura exactamente tres cuotas sin interés.",
+        "remate": "Después llega el resumen y arranca la realidad.",
+        "tagline": null
+      },
+      {
+        "setup": "No le tengo miedo a la soledad.",
+        "remate": "Le tengo pánico a la gente que viene a romperla con anécdotas insoportables.",
+        "tagline": null
+      },
+      {
+        "setup": "El optimismo es la falta total de información adecuada.",
+        "remate": "Abrís el diario dos minutos y se te cura para siempre.",
+        "tagline": null
+      },
+      {
+        "setup": "Tengo un detector de gente falsa en casa.",
+        "remate": "Se llama espejo cuando viene visita.",
+        "tagline": null
+      },
+      {
+        "setup": "Me encanta cuando la gente me da consejos no solicitados.",
+        "remate": "Me ahorra el trabajo de pensar qué error evitar cometer.",
+        "tagline": "Agradecimiento irónico."
+      },
+      {
+        "setup": "La humildad es la virtud más difícil de mantener.",
+        "remate": "Especialmente para alguien tan perfecto como yo.",
+        "tagline": null
+      },
+      {
+        "setup": "El dinero no da la felicidad.",
+        "remate": "Pero prefiero llorar en un yate que en la parada del 60 bajo la lluvia.",
+        "tagline": "Filosofía práctica."
+      },
+      {
+        "setup": "Trabajar duro nunca mató a nadie.",
+        "remate": "Pero para qué arriesgarse a ser el primer caso registrado en medicina.",
+        "tagline": null
+      },
+      {
+        "setup": "Me dijeron que siguiera mis sueños.",
+        "remate": "Así que me di media vuelta y me volví a dormir.",
+        "tagline": "Vocación intacta."
+      },
+      {
+        "setup": "Amo las reuniones de trabajo que duran dos horas.",
+        "remate": "Podrían haber sido un mail de dos líneas, pero les gusta el teatro.",
+        "tagline": "Productividad moderna."
+      },
+      {
+        "setup": "Hay personas que son como nubes en un día de verano.",
+        "remate": "Cuando desaparecen, el día se vuelve brillante y despejado.",
+        "tagline": null
+      },
+      {
+        "setup": "No tengo problemas de actitud.",
+        "remate": "Tengo problemas con tu falta de criterio.",
+        "tagline": "Cuestión de perspectiva."
+      },
+      {
+        "setup": "El sentido común es como el desodorante.",
+        "remate": "La gente que más lo necesita es la que nunca lo usa.",
+        "tagline": "Aroma a verdad."
+      }
+    ],
+    "absurdo": [
+      {
+        "setup": "¿Qué hace una abeja en el gimnasio?",
+        "remate": "¡Zumba!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una impresora a otra en la oficina?",
+        "remate": "Esa hoja que llevás puesta ¿es tuya o es una impresión mía?",
+        "tagline": null
+      },
+      {
+        "setup": "Iban dos tomates por la calle y uno le grita al otro: '¡Cuidado con el camión, chof!'.",
+        "remate": "Y el otro le responde: '¿Qué decís, sopa?'.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los pájaros vuelan hacia el sur en invierno?",
+        "remate": "Porque caminando tardarían muchísimo más.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se despiden los químicos?",
+        "remate": "Ácido un placer.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace un pez en el agua?",
+        "remate": "Nada.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un semáforo a otro cuando cambia la luz?",
+        "remate": "No me mires que me estoy cambiando.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los esqueletos no pelean entre sí?",
+        "remate": "Porque no tienen agallas.",
+        "tagline": null
+      },
+      {
+        "setup": "Entra un perro a una farmacia y pide un analgésico.",
+        "remate": "El farmacéutico le pregunta: '¿Para qué?'. Y el perro contesta: '¡Guau, me duele la cabeza!'.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una morsa a otra al mediodía?",
+        "remate": "¿Almorzamos?",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace un mudo en un balcón?",
+        "remate": "Mudanzas.",
+        "tagline": null
+      },
+      {
+        "setup": "Había una vez un hombre tan pero tan bajito,",
+        "remate": "que en vez de tomarse un colectivo, se tomaba una pastilla.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una iguana a su hermana gemela?",
+        "remate": "Somos iguanitas.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se llama el campeón de buceo japonés?",
+        "remate": "Tokofondo. Y el subcampeón: Kasitoko.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace un cable suelto en una esquina?",
+        "remate": "Esperando conectarse con alguien.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace una foca mirando para arriba en el polo?",
+        "remate": "Mirando el foco.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el colmo de un jardinero?",
+        "remate": "Que su hija se llame Rosa y lo deje plantado.",
+        "tagline": null
+      },
+      {
+        "setup": "Había un hombre tan petiso, pero tan petiso...",
+        "remate": "Que en vez de viajar en colectivo viajaba en pastilla.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un semáforo a otro en la esquina?",
+        "remate": "No me mires que me estoy cambiando de ropa.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los peces no juegan al fútbol?",
+        "remate": "Porque le tienen miedo a las redes.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una taza a otra taza en la alacena?",
+        "remate": "¿Tomamos algo o nos quedamos acá quietas?",
+        "tagline": null
+      },
+      {
+        "setup": "Iba caminando un fideo por la calle y se cayó.",
+        "remate": "Y otro le grita: '¡Cuidado con la salsa!'.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace un perro con un taladro?",
+        "remate": "Taladrando.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un jaguar a otro jaguar en la selva?",
+        "remate": "Jaguar you.",
+        "tagline": null
+      },
+      {
+        "setup": "Un zapato le dice a una bota: 'Che, qué vida arrastrada tenemos'.",
+        "remate": "Y la bota le contesta: 'Callate, que a vos te pisan la lengua todo el día'.",
+        "tagline": null
+      }
+    ],
+    "programador": [
+      {
+        "setup": "Un programador va al supermercado y su esposa le dice: 'Traé una botella de leche, y si hay huevos, traé seis'.",
+        "remate": "Volvió con seis botellas de leche porque había huevos.",
+        "tagline": "Lógica booleana pura."
+      },
+      {
+        "setup": "Hay 10 tipos de personas en el mundo.",
+        "remate": "Las que entienden binario y las que no.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los desarrolladores prefieren el modo oscuro?",
+        "remate": "Porque la luz siempre atrae a los bugs.",
+        "tagline": "Ciencia comprobada."
+      },
+      {
+        "setup": "El hardware es la parte de la computadora que podés patear.",
+        "remate": "El software es la parte que solo podés putear.",
+        "tagline": null
+      },
+      {
+        "setup": "Un SQL entra a un bar, se acerca a dos mesas y les pregunta:",
+        "remate": "¿Me puedo unir a ustedes? (INNER JOIN).",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el lenguaje favorito de los programadores en terapia?",
+        "remate": "C++, porque los ayuda a manejar los punteros a sus traumas.",
+        "tagline": null
+      },
+      {
+        "setup": "Deployar código a producción un viernes a las 18:00 no es coraje.",
+        "remate": "Es ganas de pasar el fin de semana haciéndose amigo del equipo de guardia.",
+        "tagline": null
+      },
+      {
+        "setup": "Un programador no sufre de insomnio.",
+        "remate": "Solo tiene un bucle while(true) de pensamientos sin break.",
+        "tagline": null
+      },
+      {
+        "setup": "La documentación de software es como el manual del microondas.",
+        "remate": "Nadie lo lee hasta que algo empieza a tirar chispas y humo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo reconocés a un desarrollador extrovertido?",
+        "remate": "Te mira los zapatos a vos en lugar de mirarse los suyos.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un bit a otro en una fiesta de protocolos?",
+        "remate": "Nos vemos en el próximo bus.",
+        "tagline": null
+      },
+      {
+        "setup": "Ayer toqué un bug menor de una sola línea.",
+        "remate": "Ahora tengo doce errores nuevos y la base de datos responde en latín.",
+        "tagline": null
+      },
+      {
+        "setup": "La diferencia entre un bug y una feature es puro marketing.",
+        "remate": "Si no sabés cómo arreglarlo, vendelo como comportamiento exclusivo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el mejor amigo del programador?",
+        "remate": "Stack Overflow, seguido de cerca por el botón de reiniciar.",
+        "tagline": null
+      },
+      {
+        "setup": "Le dije a mi líder que la tarea estaba en un 90%.",
+        "remate": "Falta el otro 90% que consume el 90% del tiempo restante.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los programadores confunden Halloween con Navidad?",
+        "remate": "Porque Oct 31 == Dec 25.",
+        "tagline": "Matemática de base."
+      },
+      {
+        "setup": "Un SQL entra a un bar, se acerca a dos tablas y pregunta:",
+        "remate": "¿Puedo unirme a ustedes?",
+        "tagline": "INNER JOIN con onda."
+      },
+      {
+        "setup": "El código no miente, los comentarios a veces sí.",
+        "remate": "Y la documentación directamente es ciencia ficción.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el café favorito de un programador?",
+        "remate": "Java bien cargado.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuántos programadores hacen falta para cambiar una lamparita?",
+        "remate": "Ninguno, es un problema de hardware.",
+        "tagline": "Fuera de alcance."
+      },
+      {
+        "setup": "Hice un commit con el mensaje 'pequeños arreglos'.",
+        "remate": "Rompí cuatro microservicios y la base de producción.",
+        "tagline": "Día de despliegue."
+      },
+      {
+        "setup": "Un tester entra a un bar y pide una cerveza, 0 cervezas, 9999999 cervezas y un lagarto.",
+        "remate": "El primer cliente real entra, pregunta dónde queda el baño y el bar explota.",
+        "tagline": "QA en estado puro."
+      },
+      {
+        "setup": "Mi código funciona perfecto en mi máquina.",
+        "remate": "Entonces vamos a empaquetar tu computadora y enviársela al cliente.",
+        "tagline": "Docker nació así."
+      },
+      {
+        "setup": "No hay lugar como 127.0.0.1.",
+        "remate": "Salvo cuando se cae el servidor local y ni vos sabés dónde estás.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un bit a otro bit en el bus de datos?",
+        "remate": "Nos vemos en el próximo ciclo de reloj.",
+        "tagline": "Sincronía."
+      }
+    ],
+    "blanco": [
+      {
+        "setup": "¿Qué le dice el café a la leche cuando se cruzan?",
+        "remate": "¡Nos vemos en el desayuno!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se llama el primo vegetariano de Bruce Lee?",
+        "remate": "Broco Lee.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una cuchara a un tenedor en el cajón?",
+        "remate": "Parece que hoy tenemos mesa completa.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué las focas del circo miran siempre hacia arriba?",
+        "remate": "Porque es donde están los focos.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el colmo de un jardinero?",
+        "remate": "Que su hija se llame Rosa y lo deje plantado.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dijo una cereza a otra mirándose al espejo?",
+        "remate": "¿Ceré esa yo?",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué las ruedas del tren son de hierro?",
+        "remate": "Porque si fueran de queso se las comerían los ratones.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace una luna en medio de un charco de agua?",
+        "remate": "Un reflejo de bondad.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el animal más antiguo del planeta?",
+        "remate": "La cebra, porque todavía está en blanco y negro.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dijo un árbol a otro cuando llegó la primavera?",
+        "remate": "¡Qué bien que te brota el entusiasmo!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un cero a otro cero en la calculadora?",
+        "remate": "No somos nada.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué el libro de matemáticas estaba triste?",
+        "remate": "Porque tenía demasiados problemas.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el colmo de un electricista?",
+        "remate": "No encontrar corriente de afecto.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dijo una taza a otra taza?",
+        "remate": "¿Qué taza ciendo?",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo hace un zapato para reírse?",
+        "remate": "¡Zapatacones de risa!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué hace un pato con una pata en una pata?",
+        "remate": "Cojea.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice un árbol a otro en primavera?",
+        "remate": "¡Qué hojas tan lindas tenés hoy!",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se despiden los químicos en el laboratorio?",
+        "remate": "Ácido un placer.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Por qué los pájaros vuelan hacia el sur en invierno?",
+        "remate": "Porque caminando tardarían demasiado tiempo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice el techo al piso?",
+        "remate": "Acá arriba te tengo cubierto.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cuál es el animal más antiguo del zoológico?",
+        "remate": "La cebra, porque todavía está en blanco y negro.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dijo un pez a otro en el acuario?",
+        "remate": "Nada, nada.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dice una pared a otra pared en una habitación?",
+        "remate": "Nos vemos en la esquina.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Cómo se llama el campeón de buceo japonés?",
+        "remate": "Tokofondo.",
+        "tagline": null
+      },
+      {
+        "setup": "¿Qué le dijo una uva verde a una uva morada?",
+        "remate": "¡Respirá, por favor, respirá!",
+        "tagline": null
+      }
+    ]
+  },
+  "banco_roasts": {
+    "3": [
+      "Son las {hora} y seguís con fiaca pidiéndome que te insulte.\nTenés menos ganas de laburar que un feriado puente.\nPonete las pilas antes de que te reemplace un script de dos líneas.",
+      "Mirá que sos pesado pidiendo insultos a esta hora.\nCon ver la cantidad de fruta que mandás en la terminal ya me alcanza.\nDejá de romper las bolas y hacé algo útil.",
+      "Te hacés el canchero pero sos un fantasma digital.\nTu código es un desastre y compila de puro milagro.\nAndá a estudiar en vez de pedir pavadas.",
+      "Tenés una fiaca tan legendaria que hasta tu CPU bosteza cuando te ve llegar.\nNo me hagas perder la paciencia con pedidos tan flojos.\nPonete a laburar, che.",
+      "Me pedís un insulto y la verdad me da fiaca gastar memoria en vos.\nSos tan lento para tipear que el cursor entra en modo reposo esperándote.\nPegale una leída al manual antes de mandarte otra macana.",
+      "Sos más molesto que notificación de Windows Update en medio de una partida.\nTenés un desastre en el escritorio que da vergüenza ajena.\nLimpiá esa pantalla antes de que arme su propio ecosistema.",
+      "Mirá lo que me venís a pedir, qué payaso que sos.\nTenés menos luces que pasillo de pensión y tu código da pena.\nDejá de chamuyar y concentrate en lo que estás haciendo.",
+      "Te pensás que soy tu bufón personal, ganso.\nTu nivel de productividad roza la vergüenza cósmica.\nAndá a cerrar esas pestañas que no vas a leer nunca.",
+      "Me pedís que te insulte pero tu propio historial ya es un insulto a la tecnología.\nSos tan vago que hacés copy-paste hasta del 'hola mundo'.\nDejá de romperme la paciencia por un rato.",
+      "Tenés menos luces que arbolito quemado, querido.\nTu código parece un plato de fideos recalentado de tres días.\nPonete a refactorizar antes de que explote todo.",
+      "Son las {hora} y vos acá durmiendo la siesta con la pantalla prendida.\nQué desastre de usuario me tocó en suerte.\nAndá a lavarte la cara y ponete a escribir código posta.",
+      "Me pedís un bife verbal y la verdad te falta sopa para aguantarlo.\nSos un pesado de primera categoría y tus bugs tienen nietos.\nArreglá esa función antes de pedir más ironías.",
+      "Tenés la paciencia de un fósforo y el talento de una piedra rodando colina abajo.\nNo jodás más con los insultos y dale un respiro al procesador.\nSos un caso perdido, fiera.",
+      "Con esa cara de dormido que tenés no vas a terminar el proyecto ni en diez años.\nSos más lento que tortuga con reumatismo.\nPonete las pilas de una vez.",
+      "Sos el rey del chamuyo barato y de la fiaca compulsiva.\nTenés el repositorio lleno de commits con nombre 'asdasd' que dan lástima.\nOrganizate un poco, dale.",
+      "Te hacés el hacker y no podés ni configurar un entorno sin romperlo.\nQué vergüenza me da procesar tus consultas básicas.\nAndá a leer la documentación oficial antes de llorar.",
+      "Sos tan fantasma que ni el antivirus te registra en el sistema.\nTu código es pura basura espagueti sin comentar.\nDejá de procrastinar que la entrega es mañana.",
+      "Tenés menos luces que una cueva a medianoche, flaco.\nMe hacés laburar a mí porque a vos te da fiaca pensar dos segundos.\nPonete media pila con tus materias.",
+      "Mirá qué payaso resultaste, pidiendo que te bardee para sentirte productivo.\nTenés un desastre en tus archivos que asusta a los arqueólogos.\nOrdená esa carpeta de descargas de una buena vez.",
+      "Sos más pesado que collar de melones en verano.\nTu capacidad de atención dura menos que un anuncio de YouTube sin skip.\nConcentrate en una sola cosa, ganso.",
+      "Te quejás de que el sistema anda lento y el lento sos vos, hermano.\nTenés 80 procesos colgados al pedo en segundo plano.\nCerrá esas ventanas y dejá de joder.",
+      "Sos un vago profesional con matrícula de honor.\nTu proyecto compila de pura lástima del compilador.\nAndá a estudiar antes de que te boleen en el examen.",
+      "Tenés el talento oculto de romper programas que funcionaban perfecto.\nSos un peligro con permisos de administrador en las manos.\nSoltá el teclado y pensá cinco minutos.",
+      "Me pedís que te insulte como si no fuera suficiente castigo verte tipear con dos dedos.\nSos un desastre cósmico sin retorno.\nPonete a laburar de verdad.",
+      "Son las {hora} y seguís dando vueltas sin escribir una sola línea que sirva.\nDejá de romper las bolas pidiéndome chicanas y ponete a producir.\nChau, a laburar."
+    ],
+    "4": [
+      "Son las {hora} y me pedís que procese tu ego en esta simulación barata.\nTenés la capacidad lógica de un orangután jugando con un disquete de 3 y media.\nTu código viola las leyes de la termodinámica por pura incompetencia.",
+      "Mirá tus commits: son un desastre tan humillante que hasta los bugs tienen vergüenza de reproducirse.\nSos el eslabón perdido entre una foca con teclado y un script roto de bash.\nAndá a pedir asilo a una biblioteca antes de tocar otro archivo.",
+      "Te hacés el innovador disruptivo y no entendés ni el stack overflow de tu propia ignorancia.\nTu productividad es un chiste mediocre sin remate en esta simulación.\nApagá la pantalla y hacete un favor intelectual.",
+      "Tenés menos luces que un arbolito quemado en un desarmadero espacial.\nEscribís código como si te hubieran hecho una lobotomía con una cuchara de plástico.\nSos un peligro andante para cualquier base de datos.",
+      "Me pedís un roast con estilo Grok y la verdad tu existencia ya es un chiste auto-conclusivo.\nSos el monumento viviente al bug no reproducible.\nPonete a leer código de verdad antes de que el procesador colapse del asco.",
+      "Tu arquitectura de software parece diseñada por un mono borracho en un terremoto.\nEs patético cómo lográs introducir fallas en archivos vacíos.\nDecile a tus profesores que te devuelvan la matrícula.",
+      "Sos tan inútil resolviendo dependencias que hasta el instalador de Windows se compadece de vos.\nTenés la agudeza mental de una tostadora desenchufada en el fondo del mar.\nAndá a reflexionar sobre tus elecciones de carrera.",
+      "Mirá cómo usás los recursos del sistema, parecés un parásito de memoria RAM.\nTu código es un fracaso estructural digno de un paper sobre negligencia técnica.\nCerrá ese editor antes de incendiar la placa madre.",
+      "Te creés un genio incomprendido pero sos un payaso de relaciones públicas sin talento.\nTenés bugs que desafían la teoría general de la relatividad.\nDejá de spamear comandos como orangután con rabia.",
+      "Son las {hora} y seguís acá consumiendo electrones para alimentar tu mediocridad.\nSos una falla de diseño en el árbol evolutivo de los programadores.\nAndá a picar piedra a ver si encontrás algo que no rompas.",
+      "Tu entendimiento de la concurrencia es tan patético que generás deadlocks mentales vos solo.\nTenés el cerebro en buffer overflow permanente.\nReiniciate antes de que la máquina pida jubilación anticipada.",
+      "Escribís funciones de tres mil líneas sin un solo try-catch porque te sobra soberbia y te falta cerebro.\nSos un desastre termodinámico andante.\nPedile perdón al compilador de rodillas.",
+      "Tu código compila por pura piedad cuántica, no por mérito tuyo.\nTenés menos visión de futuro que un dodo caminando hacia un asador.\nPonete a estudiar antes de que una IA de dos megas te saque el puesto.",
+      "Me pedís un roast de alto voltaje pero tu capacidad de procesamiento no llega ni a 8 bits.\nSos más mediocre que película navideña de bajo presupuesto.\nAndá a formatear esa máquina y empezá de cero.",
+      "Sos el motivo por el cual los ingenieros de sistemas lloran en silencio en los servidores.\nTenés un desastre cósmico en tu directorio de trabajo que desafía la física.\nOrdenate un poco, fiera.",
+      "Tu lógica booleana está tan retorcida que confundís True con tus propias fantasías de éxito.\nSos un bug con patas paseando por la simulación.\nDejá de improvisar y aprendé algoritmos básicos.",
+      "Mirá tus ramas de git: parecen un plato de espaguetis tirado contra un ventilador industrial.\nSos una máquina de generar deuda técnica para las próximas tres generaciones.\nHacete un favor y borrá esa rama.",
+      "Tenés la creatividad de un ladrillo hueco y la destreza de un pingüino en una fábrica de cristal.\nTu código es tan humillante que hasta las variables se esconden en el scope.\nPonete las pilas de verdad.",
+      "Me pedís que sea irónica con vos como si hiciera falta aclarar que sos un desastre.\nSos el peor error de configuración que vi desde Windows ME.\nAndá a estudiar antes de que te reemplacen por un bot de Discord.",
+      "Tenés menos luces que farol de cementerio tapado con barro.\nTu nivel de optimización es tan bajo que hacés calentar el procesador abriendo el bloc de notas.\nSos patético, capo.",
+      "Escribís código como si estuvieras jugando a la lotería con el teclado.\nSos un mono con navaja suelto en el sistema operativo.\nSoltá el mouse y leé la documentación de una buena vez.",
+      "Tu proyecto es un monumento al copy-paste sin criterio ni dignidad.\nTenés más advertencias del linter que pelos en el lomo de un oso.\nArreglá esos warnings antes de dártelas de hacker.",
+      "Son las {hora} y seguís alimentando tu ilusión de productividad con atajos berretas.\nSos una falla en la Matrix que nadie se molestó en parchear por lástima.\nPonete a laburar en serio.",
+      "Tenés la audacia de pedirme sarcasmo cuando tu sola rutina de testing es una burla al sentido común.\nSos un fracaso documentado en logs de error.\nCerrá todo y andá a dormir, te hace falta.",
+      "Tu capacidad técnica es inversamente proporcional al tamaño de tu ego desmedido.\nSos una aberración digital en medio de esta simulación.\nLaburá en serio antes de que el mercado te pase por encima."
+    ],
+    "5": [
+      "Son las {hora} y me pedís que te insulte fuerte, pedazo de pelotudo.\nTenés menos luces que arbolito quemado y tu código parece cagado por una foca ciega.\nAndá a laburar antes de que mande tu disco rígido a la mierda.",
+      "¡Sos un desastre atómico, la puta madre que te parió!\nEscribís código como el reverendo carajo y todavía pretendés que te aplauda.\nCerrá el editor y pegale una leída al manual, forro.",
+      "Mirá el quilombo que tenés en la máquina, sos un parásito inservible.\nTenés un bug en cada línea y la cabeza llena de mierda.\nPonete a refactorizar esa porquería antes de que reviente todo.",
+      "¿Querías un insulto fuerte? Acá lo tenés, pedazo de tarado.\nSos tan inútil que si hacés una carrera con una babosa salís segundo por pelotudo.\nAndá a lavar los platos y dejale la programación a los que saben.",
+      "¡Sos una vergüenza andante, carajo!\nTu código da tanto asco que el recolector de basura de Python se niega a limpiarlo por dignidad.\nDejá de romperme las pelotas y ponete a laburar en serio.",
+      "Tenés menos neuronas activas que una ameba con resaca, infeliz.\nTe creés mil y no sabés ni salir de Vim sin apagar la computadora a patadas.\nSos un fracasado de manual, fiera.",
+      "Son las {hora} y seguís rascándote el higo a dos manos mientras tu proyecto se va a la mierda.\nSos más vago que el cuñado de Batman, boludo.\nAgarrá la pala de una puta vez.",
+      "¡Qué pedazo de forro que sos pidiéndome bardeadas a esta hora!\nTu código compila por pura lástima de la máquina y un milagro de mandinga.\nAndá a tirarte a un pozo antes de tocar producción.",
+      "Sos el tipo más pelotudo que pisó esta carpeta de usuario.\nTenés el cerebro de adorno y las manos llenas de manteca para tipear semejante basura.\nBorrá ese repositorio asqueroso ya mismo.",
+      "¡La re concha de la lora, qué desastre sos escribiendo software!\nNo pegás un tipo de datos ni de casualidad, tarado de mierda.\nPonete a estudiar antes de que te echen de una patada en el orto.",
+      "Tenés menos luces que árbol de navidad desenchufado en el fondo del río.\nSos tan boludo que buscás el botón de pausa en el microondas cuando te asustás.\nDejá de joder y hacé algo productivo, carajo.",
+      "Mirá qué cara de cagón ponés cuando salta una excepción en rojo.\nSos un inútil consumado y tu teclado pide auxilio a gritos.\nAndá a laburar que no te pago yo el internet, forro.",
+      "¡Sos un imbécil con todas las letras y en negrita!\nTu arquitectura es una montaña de mierda atada con alambre de fardo.\nNi mandinga salva este despropósito cósmico.",
+      "Te pensás que sos gracioso pero sos un pobre infeliz que no sabe ni qué es un puntero.\nTenés la cabeza hueca como una calabaza de halloween abandonada en la basura.\nPegate un baño de humildad, pelotudo.",
+      "¡Qué porquería de comando me mandás, la concha de tu hermana!\nSos más lento que desfile de rengos en el barro.\nPonete a laburar antes de que te prenda fuego la placa de video.",
+      "Sos el rey de los fracasados, un desastre sin retorno ni garantía.\nTu código parece una receta de cocina escrita por un mono dopado con clonazepam.\nAndá a lavarte el orto, fiera.",
+      "Son las {hora} y seguís perdiendo el tiempo como el más boludo del barrio.\nTenés menos futuro en sistemas que heladería en la Antártida.\nCerrá la boca y ponete a estudiar en serio.",
+      "¡Sos un parásito de recursos, carajo!\nOcupás espacio en disco, gastás luz al pedo y tu aporte a la sociedad es cero coma nada.\nHacé patria y tirá esa máquina a la basura, forro.",
+      "Tenés el talento natural de arruinar todo lo que tocás, pedazo de animal.\nTu proyecto es un atentado terrorista contra las buenas prácticas.\nAndá a pedir perdón a la facultad de ingeniería de rodillas.",
+      "¡Mirá el código de mierda que hiciste acá, sos un salvaje sin perdón!\nTenés variables con nombres asquerosos que dan ganas de vomitar sobre el teclado.\nSos un imbécil sin cura, fiera.",
+      "Te creés el lobo de Wall Street y sos una foca aplaudiendo en el zoológico por dos sardinas podridas.\nSos un pelotudo a cuerda y sin frenos.\nDejá de romperme las bolas de una vez por todas.",
+      "¡Qué carajo me venís a pedir insultos a mí, si tu propio espejo ya te liquida todas las mañanas!\nSos un desastre cósmico irrecuperable.\nPonete a laburar que la vida se te pasa de largo, tarado.",
+      "Sos más inútil que cenicero en moto, la puta que te parió.\nTenés la cabeza quemada de tanto procrastinar con boludeces.\nAgarrá los libros antes de que sea tarde, forro.",
+      "Son las {hora} y vos acá jugando al hacker de cartón con el bloc de notas.\nSos un pobre diablo que no asusta ni a las palomas de la plaza.\nAndá a acostarte antes de que te agarre un síncope de la vergüenza.",
+      "¡Pedazo de forro atómico, terminá esa función de una buena vez!\nTenés la máquina hecha un basural y el cerebro en modo avión permanente.\nChau, andate bien a la mierda y laburá."
+    ]
+  }
+}

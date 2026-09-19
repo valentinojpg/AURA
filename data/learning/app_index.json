@@ -1,0 +1,2462 @@
+{
+  "apps": {
+    "4k video downloader+": {
+      "name": "4k video downloader+",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\4K Video Downloader+.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "4K Video Downloader+"
+    },
+    "antigravity": {
+      "name": "antigravity",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Antigravity.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Antigravity"
+    },
+    "discord": {
+      "name": "discord",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Discord"
+    },
+    "firefox": {
+      "name": "firefox",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Firefox"
+    },
+    "heroic": {
+      "name": "heroic",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Heroic.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Heroic"
+    },
+    "medal": {
+      "name": "medal",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Medal.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Medal"
+    },
+    "ollama": {
+      "name": "ollama",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ollama.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Ollama"
+    },
+    "papelera de reciclaje": {
+      "name": "papelera de reciclaje",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Papelera de reciclaje.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Papelera de reciclaje"
+    },
+    "r2modman": {
+      "name": "r2modman",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\r2modman.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "r2modman"
+    },
+    "replay": {
+      "name": "replay",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Replay.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Replay"
+    },
+    "roblox": {
+      "name": "roblox",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Roblox"
+    },
+    "umamusume (hachimi)": {
+      "name": "umamusume (hachimi)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Umamusume (Hachimi).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Umamusume (Hachimi)"
+    },
+    "wand (wemod)": {
+      "name": "wand (wemod)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Wand (WeMod).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Wand (WeMod)"
+    },
+    "magnify": {
+      "name": "magnify",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Magnify"
+    },
+    "narrator": {
+      "name": "narrator",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Narrator"
+    },
+    "on-screen keyboard": {
+      "name": "on-screen keyboard",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "On-Screen Keyboard"
+    },
+    "internet explorer": {
+      "name": "internet explorer",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Internet Explorer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Internet Explorer"
+    },
+    "antigravity ide": {
+      "name": "antigravity ide",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Antigravity IDE\\Antigravity IDE.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Antigravity IDE"
+    },
+    "capcut": {
+      "name": "capcut",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CapCut\\CapCut.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "CapCut"
+    },
+    "droidcam client": {
+      "name": "droidcam client",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\DroidCam\\DroidCam Client.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "DroidCam Client"
+    },
+    "hd mode": {
+      "name": "hd mode",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\DroidCam\\HD Mode.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "HD Mode"
+    },
+    "uninstall": {
+      "name": "uninstall",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\DroidCam\\Uninstall.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall"
+    },
+    "benchmark": {
+      "name": "benchmark",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Equalizer APO 1.4.2\\Benchmark.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Benchmark"
+    },
+    "configuration reference (online)": {
+      "name": "configuration reference (online)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Equalizer APO 1.4.2\\Configuration reference (online).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Configuration reference (online)"
+    },
+    "configuration tutorial (online)": {
+      "name": "configuration tutorial (online)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Equalizer APO 1.4.2\\Configuration tutorial (online).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Configuration tutorial (online)"
+    },
+    "equalizer apo configuration editor": {
+      "name": "equalizer apo configuration editor",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Equalizer APO 1.4.2\\Equalizer APO Configuration Editor.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Equalizer APO Configuration Editor"
+    },
+    "equalizer apo device selector": {
+      "name": "equalizer apo device selector",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Equalizer APO 1.4.2\\Equalizer APO Device Selector.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Equalizer APO Device Selector"
+    },
+    "roblox create": {
+      "name": "roblox create",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox Web Apps\\Roblox Create.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Roblox Create"
+    },
+    "speedguide": {
+      "name": "speedguide",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox Web Apps\\Speedguide.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Speedguide"
+    },
+    "dragon ball legends": {
+      "name": "dragon ball legends",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Google Play Games\\DRAGON BALL LEGENDS.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "DRAGON BALL LEGENDS"
+    },
+    "jdownloader 2": {
+      "name": "jdownloader 2",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\JDownloader\\JDownloader 2.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "JDownloader 2"
+    },
+    "anaconda powershell prompt (miniconda3)": {
+      "name": "anaconda powershell prompt (miniconda3)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Miniconda3 (64-bit)\\Anaconda Powershell Prompt (Miniconda3).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Anaconda Powershell Prompt (Miniconda3)"
+    },
+    "anaconda prompt (miniconda3)": {
+      "name": "anaconda prompt (miniconda3)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Miniconda3 (64-bit)\\Anaconda Prompt (Miniconda3).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Anaconda Prompt (Miniconda3)"
+    },
+    "curseforge": {
+      "name": "curseforge",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Overwolf\\CurseForge.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "CurseForge"
+    },
+    "overwolf": {
+      "name": "overwolf",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Overwolf\\Overwolf.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Overwolf"
+    },
+    "thunderstore mod manager": {
+      "name": "thunderstore mod manager",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Overwolf\\Thunderstore Mod Manager.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Thunderstore Mod Manager"
+    },
+    "idle (python 3.14)": {
+      "name": "idle (python 3.14)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\\Python 3.14\\IDLE (Python 3.14).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "IDLE (Python 3.14)"
+    },
+    "pydoc (python 3.14)": {
+      "name": "pydoc (python 3.14)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\\Python 3.14\\PyDoc (Python 3.14).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "PyDoc (Python 3.14)"
+    },
+    "python 3.14 manuals": {
+      "name": "python 3.14 manuals",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\\Python 3.14\\Python 3.14 Manuals.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Python 3.14 Manuals"
+    },
+    "python 3.14 online documentation": {
+      "name": "python 3.14 online documentation",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\\Python 3.14\\Python 3.14 Online Documentation.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Python 3.14 Online Documentation"
+    },
+    "python 3.14": {
+      "name": "python 3.14",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python\\Python 3.14\\Python 3.14.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Python 3.14"
+    },
+    "roblox player": {
+      "name": "roblox player",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Player.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Roblox Player"
+    },
+    "roblox studio": {
+      "name": "roblox studio",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Studio.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Roblox Studio"
+    },
+    "rockstar games launcher": {
+      "name": "rockstar games launcher",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Rockstar Games\\Rockstar Games Launcher.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Rockstar Games Launcher"
+    },
+    "san andreas multiplayer": {
+      "name": "san andreas multiplayer",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\San Andreas Multiplayer\\San Andreas Multiplayer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "San Andreas Multiplayer"
+    },
+    "selfishnetv3": {
+      "name": "selfishnetv3",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\SelfishNetV3\\SelfishNetv3.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "SelfishNetv3"
+    },
+    "sklauncher": {
+      "name": "sklauncher",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\SKlauncher\\SKlauncher.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "SKlauncher"
+    },
+    "uninstall sklauncher": {
+      "name": "uninstall sklauncher",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\SKlauncher\\Uninstall SKlauncher.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall SKlauncher"
+    },
+    "batmantm arkham origins": {
+      "name": "batmantm arkham origins",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Batman™ Arkham Origins.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Batman™ Arkham Origins"
+    },
+    "beholder": {
+      "name": "beholder",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Beholder.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Beholder"
+    },
+    "billar 3d - pool": {
+      "name": "billar 3d - pool",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Billar 3D - Pool.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Billar 3D - Pool"
+    },
+    "blasphemous": {
+      "name": "blasphemous",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Blasphemous.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Blasphemous"
+    },
+    "dying light": {
+      "name": "dying light",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Dying Light.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Dying Light"
+    },
+    "gang beasts": {
+      "name": "gang beasts",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Gang Beasts.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Gang Beasts"
+    },
+    "garry's mod": {
+      "name": "garry's mod",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Garry's Mod.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Garry's Mod"
+    },
+    "golf with your friends": {
+      "name": "golf with your friends",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Golf With Your Friends.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Golf With Your Friends"
+    },
+    "half-life": {
+      "name": "half-life",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Half-Life.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Half-Life"
+    },
+    "hotline miami": {
+      "name": "hotline miami",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Hotline Miami.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Hotline Miami"
+    },
+    "human fall flat": {
+      "name": "human fall flat",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Human Fall Flat.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Human Fall Flat"
+    },
+    "left 4 dead 2 authoring tools": {
+      "name": "left 4 dead 2 authoring tools",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Left 4 Dead 2 Authoring Tools.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Left 4 Dead 2 Authoring Tools"
+    },
+    "metal gear solid v the phantom pain": {
+      "name": "metal gear solid v the phantom pain",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\METAL GEAR SOLID V THE PHANTOM PAIN.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "METAL GEAR SOLID V THE PHANTOM PAIN"
+    },
+    "obs studio": {
+      "name": "obs studio",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\OBS Studio.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "OBS Studio"
+    },
+    "overwatch®": {
+      "name": "overwatch®",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Overwatch®.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Overwatch®"
+    },
+    "payday 2": {
+      "name": "payday 2",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\PAYDAY 2.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "PAYDAY 2"
+    },
+    "postal redux": {
+      "name": "postal redux",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\POSTAL Redux.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "POSTAL Redux"
+    },
+    "r.e.p.o.": {
+      "name": "r.e.p.o.",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\R.E.P.O..url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "R.E.P.O."
+    },
+    "resident evil 5": {
+      "name": "resident evil 5",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Resident Evil 5.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Resident Evil 5"
+    },
+    "sven co-op": {
+      "name": "sven co-op",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Sven Co-op.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Sven Co-op"
+    },
+    "terraria": {
+      "name": "terraria",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Terraria.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Terraria"
+    },
+    "tmodloader": {
+      "name": "tmodloader",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\tModLoader.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "tModLoader"
+    },
+    "trombone champ": {
+      "name": "trombone champ",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Trombone Champ.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Trombone Champ"
+    },
+    "vtube studio": {
+      "name": "vtube studio",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\VTube Studio.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VTube Studio"
+    },
+    "worms ultimate mayhem": {
+      "name": "worms ultimate mayhem",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Worms Ultimate Mayhem.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Worms Ultimate Mayhem"
+    },
+    "superbulletai": {
+      "name": "superbulletai",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Superbullet Studios\\SuperbulletAI.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "SuperbulletAI"
+    },
+    "administrative tools": {
+      "name": "administrative tools",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Administrative Tools.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Administrative Tools"
+    },
+    "command prompt": {
+      "name": "command prompt",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Command Prompt"
+    },
+    "computer": {
+      "name": "computer",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\computer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "computer"
+    },
+    "control panel": {
+      "name": "control panel",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Control Panel"
+    },
+    "file explorer": {
+      "name": "file explorer",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\File Explorer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "File Explorer"
+    },
+    "run": {
+      "name": "run",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Run"
+    },
+    "ubisoft connect": {
+      "name": "ubisoft connect",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Ubisoft Connect\\Ubisoft Connect.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Ubisoft Connect"
+    },
+    "15 bands graphic eq": {
+      "name": "15 bands graphic eq",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\15 Bands Graphic EQ.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "15 Bands Graphic EQ"
+    },
+    "8x8 output matrix": {
+      "name": "8x8 output matrix",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\8x8 Output Matrix.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "8x8 Output Matrix"
+    },
+    "macro buttons": {
+      "name": "macro buttons",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\Macro Buttons.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Macro Buttons"
+    },
+    "readme": {
+      "name": "readme",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\Readme.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Readme"
+    },
+    "vban-2-midi": {
+      "name": "vban-2-midi",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\VBAN-2-MIDI.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VBAN-2-MIDI"
+    },
+    "virtual io control panel": {
+      "name": "virtual io control panel",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\Virtual IO Control Panel.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Virtual IO Control Panel"
+    },
+    "voicemeeter": {
+      "name": "voicemeeter",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\Voicemeeter.LNK",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Voicemeeter"
+    },
+    "visual studio code": {
+      "name": "visual studio code",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Visual Studio Code"
+    },
+    "windows powershell (x86)": {
+      "name": "windows powershell (x86)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows PowerShell (x86)"
+    },
+    "windows powershell ise (x86)": {
+      "name": "windows powershell ise (x86)",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows PowerShell ISE (x86)"
+    },
+    "windows powershell ise": {
+      "name": "windows powershell ise",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows PowerShell ISE"
+    },
+    "windows powershell": {
+      "name": "windows powershell",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows PowerShell"
+    },
+    "ayuda winrar": {
+      "name": "ayuda winrar",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Ayuda WinRAR.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Ayuda WinRAR"
+    },
+    "manual rar para consola": {
+      "name": "manual rar para consola",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Manual RAR para consola.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Manual RAR para consola"
+    },
+    "que hay de nuevo en la ultima version": {
+      "name": "que hay de nuevo en la ultima version",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Que hay de nuevo en la última versión.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Que hay de nuevo en la última versión"
+    },
+    "winrar": {
+      "name": "winrar",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "WinRAR"
+    },
+    "wo mic client": {
+      "name": "wo mic client",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WO Mic Client\\WO Mic Client.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "WO Mic Client"
+    },
+    "access": {
+      "name": "access",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Access"
+    },
+    "adobe reader 9": {
+      "name": "adobe reader 9",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Reader 9.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Adobe Reader 9"
+    },
+    "ahk2exe": {
+      "name": "ahk2exe",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ahk2Exe.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Ahk2Exe"
+    },
+    "autohotkey dash": {
+      "name": "autohotkey dash",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AutoHotkey Dash.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "AutoHotkey Dash"
+    },
+    "autohotkey window spy": {
+      "name": "autohotkey window spy",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AutoHotkey Window Spy.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "AutoHotkey Window Spy"
+    },
+    "epic games launcher": {
+      "name": "epic games launcher",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Epic Games Launcher"
+    },
+    "excel": {
+      "name": "excel",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Excel"
+    },
+    "gestahub": {
+      "name": "gestahub",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\GestaHub.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "GestaHub"
+    },
+    "google chrome": {
+      "name": "google chrome",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Google Chrome"
+    },
+    "immersive control panel": {
+      "name": "immersive control panel",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Immersive Control Panel.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Immersive Control Panel"
+    },
+    "microsoft edge": {
+      "name": "microsoft edge",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Microsoft Edge"
+    },
+    "navegacion privada de firefox": {
+      "name": "navegacion privada de firefox",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Navegación privada de Firefox.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Navegación privada de Firefox"
+    },
+    "onedrive": {
+      "name": "onedrive",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "OneDrive"
+    },
+    "onenote": {
+      "name": "onenote",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "OneNote"
+    },
+    "outlook": {
+      "name": "outlook",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Outlook"
+    },
+    "pe viewer": {
+      "name": "pe viewer",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PE Viewer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "PE Viewer"
+    },
+    "powerpoint": {
+      "name": "powerpoint",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "PowerPoint"
+    },
+    "project": {
+      "name": "project",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Project.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Project"
+    },
+    "publisher": {
+      "name": "publisher",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Publisher.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Publisher"
+    },
+    "skype for business": {
+      "name": "skype for business",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Skype for Business.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Skype for Business"
+    },
+    "smoredboard": {
+      "name": "smoredboard",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SmoredBoard.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "SmoredBoard"
+    },
+    "system informer": {
+      "name": "system informer",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Informer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "System Informer"
+    },
+    "visio": {
+      "name": "visio",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visio.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Visio"
+    },
+    "windirstat": {
+      "name": "windirstat",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinDirStat.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "WinDirStat"
+    },
+    "word": {
+      "name": "word",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Word"
+    },
+    "speech recognition": {
+      "name": "speech recognition",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Speech Recognition"
+    },
+    "math input panel": {
+      "name": "math input panel",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Math Input Panel.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Math Input Panel"
+    },
+    "notepad": {
+      "name": "notepad",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Notepad.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Notepad"
+    },
+    "paint": {
+      "name": "paint",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Paint.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Paint"
+    },
+    "quick assist": {
+      "name": "quick assist",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Quick Assist"
+    },
+    "remote desktop connection": {
+      "name": "remote desktop connection",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Remote Desktop Connection"
+    },
+    "snipping tool": {
+      "name": "snipping tool",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Snipping Tool.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Snipping Tool"
+    },
+    "steps recorder": {
+      "name": "steps recorder",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Steps Recorder"
+    },
+    "windows fax and scan": {
+      "name": "windows fax and scan",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows Fax and Scan"
+    },
+    "windows media player": {
+      "name": "windows media player",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows Media Player"
+    },
+    "wordpad": {
+      "name": "wordpad",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Wordpad"
+    },
+    "character map": {
+      "name": "character map",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Character Map"
+    },
+    "component services": {
+      "name": "component services",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Component Services"
+    },
+    "computer management": {
+      "name": "computer management",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Computer Management"
+    },
+    "dfrgui": {
+      "name": "dfrgui",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "dfrgui"
+    },
+    "disk cleanup": {
+      "name": "disk cleanup",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Disk Cleanup"
+    },
+    "event viewer": {
+      "name": "event viewer",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Event Viewer"
+    },
+    "iscsi initiator": {
+      "name": "iscsi initiator",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "iSCSI Initiator"
+    },
+    "memory diagnostics tool": {
+      "name": "memory diagnostics tool",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Memory Diagnostics Tool"
+    },
+    "odbc data sources (32-bit)": {
+      "name": "odbc data sources (32-bit)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "ODBC Data Sources (32-bit)"
+    },
+    "odbc data sources (64-bit)": {
+      "name": "odbc data sources (64-bit)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "ODBC Data Sources (64-bit)"
+    },
+    "performance monitor": {
+      "name": "performance monitor",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Performance Monitor"
+    },
+    "print management": {
+      "name": "print management",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Print Management.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Print Management"
+    },
+    "recoverydrive": {
+      "name": "recoverydrive",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "RecoveryDrive"
+    },
+    "registry editor": {
+      "name": "registry editor",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Registry Editor"
+    },
+    "resource monitor": {
+      "name": "resource monitor",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Resource Monitor"
+    },
+    "security configuration management": {
+      "name": "security configuration management",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Security Configuration Management.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Security Configuration Management"
+    },
+    "services": {
+      "name": "services",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "services"
+    },
+    "system configuration": {
+      "name": "system configuration",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "System Configuration"
+    },
+    "system information": {
+      "name": "system information",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "System Information"
+    },
+    "task scheduler": {
+      "name": "task scheduler",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Task Scheduler"
+    },
+    "windows defender firewall with advanced security": {
+      "name": "windows defender firewall with advanced security",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Windows Defender Firewall with Advanced Security"
+    },
+    "advanced systemcare": {
+      "name": "advanced systemcare",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Advanced SystemCare.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Advanced SystemCare"
+    },
+    "desinstalar advanced systemcare": {
+      "name": "desinstalar advanced systemcare",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Desinstalar Advanced SystemCare.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Desinstalar Advanced SystemCare"
+    },
+    "protect": {
+      "name": "protect",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Protect.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Protect"
+    },
+    "software updater": {
+      "name": "software updater",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Software Updater.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Software Updater"
+    },
+    "speed up": {
+      "name": "speed up",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Speed Up.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Speed Up"
+    },
+    "toolbox": {
+      "name": "toolbox",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced SystemCare\\Toolbox.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Toolbox"
+    },
+    "anydesk": {
+      "name": "anydesk",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AnyDesk\\AnyDesk.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "AnyDesk"
+    },
+    "uninstall anydesk": {
+      "name": "uninstall anydesk",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AnyDesk\\Uninstall AnyDesk.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall AnyDesk"
+    },
+    "auto keyboard by murgee.com on the web": {
+      "name": "auto keyboard by murgee.com on the web",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Auto Keyboard by MurGee.com\\Auto Keyboard by MurGee.com on the Web.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Auto Keyboard by MurGee.com on the Web"
+    },
+    "auto keyboard by murgee.com": {
+      "name": "auto keyboard by murgee.com",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Auto Keyboard by MurGee.com\\Auto Keyboard by MurGee.com.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Auto Keyboard by MurGee.com"
+    },
+    "cheat engine (32-bit)": {
+      "name": "cheat engine (32-bit)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine (32-bit).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine (32-bit)"
+    },
+    "cheat engine (64-bit sse4-avx2)": {
+      "name": "cheat engine (64-bit sse4-avx2)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine (64-bit SSE4-AVX2).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine (64-bit SSE4-AVX2)"
+    },
+    "cheat engine (64-bit)": {
+      "name": "cheat engine (64-bit)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine (64-bit).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine (64-bit)"
+    },
+    "cheat engine help": {
+      "name": "cheat engine help",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine help.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine help"
+    },
+    "cheat engine tutorial (64-bit)": {
+      "name": "cheat engine tutorial (64-bit)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine tutorial (64-bit).lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine tutorial (64-bit)"
+    },
+    "cheat engine tutorial": {
+      "name": "cheat engine tutorial",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine tutorial.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine tutorial"
+    },
+    "cheat engine": {
+      "name": "cheat engine",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Cheat Engine.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Cheat Engine"
+    },
+    "lua documentation": {
+      "name": "lua documentation",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Lua documentation.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Lua documentation"
+    },
+    "reset settings": {
+      "name": "reset settings",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Reset settings.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Reset settings"
+    },
+    "uninstall cheat engine": {
+      "name": "uninstall cheat engine",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Uninstall Cheat Engine.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall Cheat Engine"
+    },
+    "unload kernel module": {
+      "name": "unload kernel module",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cheat Engine\\Kernel stuff\\Unload kernel module.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Unload kernel module"
+    },
+    "cpu-z": {
+      "name": "cpu-z",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CPUID\\CPU-Z\\CPU-Z.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "CPU-Z"
+    },
+    "edit cpu-z config file": {
+      "name": "edit cpu-z config file",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CPUID\\CPU-Z\\Edit CPU-Z Config File.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Edit CPU-Z Config File"
+    },
+    "uninstall cpu-z": {
+      "name": "uninstall cpu-z",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CPUID\\CPU-Z\\Uninstall CPU-Z.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall CPU-Z"
+    },
+    "drift": {
+      "name": "drift",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Drift\\Drift.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Drift"
+    },
+    "desinstalar driver booster 13": {
+      "name": "desinstalar driver booster 13",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Driver Booster 13\\Desinstalar Driver Booster 13.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Desinstalar Driver Booster 13"
+    },
+    "driver booster 13": {
+      "name": "driver booster 13",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Driver Booster 13\\Driver Booster 13.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Driver Booster 13"
+    },
+    "actualizacion de ea app": {
+      "name": "actualizacion de ea app",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\Actualización de EA app.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Actualización de EA app"
+    },
+    "app recovery": {
+      "name": "app recovery",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\App Recovery.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "App Recovery"
+    },
+    "ea error reporter": {
+      "name": "ea error reporter",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA Error Reporter.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "EA Error Reporter"
+    },
+    "ea updater": {
+      "name": "ea updater",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA Updater.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "EA Updater"
+    },
+    "ea": {
+      "name": "ea",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EA\\EA.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "EA"
+    },
+    "easeus voicewave": {
+      "name": "easeus voicewave",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EaseUS VoiceWave\\EaseUS VoiceWave.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "EaseUS VoiceWave"
+    },
+    "visita easeus": {
+      "name": "visita easeus",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EaseUS VoiceWave\\Visita EaseUS.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Visita EaseUS"
+    },
+    "git bash": {
+      "name": "git bash",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Git Bash"
+    },
+    "git cmd": {
+      "name": "git cmd",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Git CMD"
+    },
+    "git faqs (frequently asked questions)": {
+      "name": "git faqs (frequently asked questions)",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git FAQs (Frequently Asked Questions).url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Git FAQs (Frequently Asked Questions)"
+    },
+    "git gui": {
+      "name": "git gui",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Git GUI"
+    },
+    "git release notes": {
+      "name": "git release notes",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Git Release Notes"
+    },
+    "google play games": {
+      "name": "google play games",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Play Games\\Google Play Games.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Google Play Games"
+    },
+    "acerca de java": {
+      "name": "acerca de java",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Acerca de Java.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Acerca de Java"
+    },
+    "comprobar actualizaciones": {
+      "name": "comprobar actualizaciones",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Comprobar Actualizaciones.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Comprobar Actualizaciones"
+    },
+    "configurar java": {
+      "name": "configurar java",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configurar Java.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Configurar Java"
+    },
+    "obtener ayuda": {
+      "name": "obtener ayuda",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Obtener Ayuda.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Obtener Ayuda"
+    },
+    "visite java.com": {
+      "name": "visite java.com",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Visite Java.com.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Visite Java.com"
+    },
+    "koalageddon on the web": {
+      "name": "koalageddon on the web",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Koalageddon\\Koalageddon on the Web.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Koalageddon on the Web"
+    },
+    "koalageddon": {
+      "name": "koalageddon",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Koalageddon\\Koalageddon.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Koalageddon"
+    },
+    "uninstall koalageddon": {
+      "name": "uninstall koalageddon",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Koalageddon\\Uninstall Koalageddon.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall Koalageddon"
+    },
+    "office language preferences": {
+      "name": "office language preferences",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Office Language Preferences"
+    },
+    "project server accounts": {
+      "name": "project server accounts",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Project Server Accounts.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Project Server Accounts"
+    },
+    "skype for business recording manager": {
+      "name": "skype for business recording manager",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Skype for Business Recording Manager.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Skype for Business Recording Manager"
+    },
+    "spreadsheet compare": {
+      "name": "spreadsheet compare",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Spreadsheet Compare.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Spreadsheet Compare"
+    },
+    "telemetry log for office": {
+      "name": "telemetry log for office",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Log for Office.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Telemetry Log for Office"
+    },
+    "mta san andreas": {
+      "name": "mta san andreas",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MTA San Andreas 1.6\\MTA San Andreas.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "MTA San Andreas"
+    },
+    "mta server": {
+      "name": "mta server",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MTA San Andreas 1.6\\MTA Server.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "MTA Server"
+    },
+    "uninstall mta san andreas": {
+      "name": "uninstall mta san andreas",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MTA San Andreas 1.6\\Uninstall MTA San Andreas.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall MTA San Andreas"
+    },
+    "parsec": {
+      "name": "parsec",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Parsec\\Parsec.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Parsec"
+    },
+    "peace": {
+      "name": "peace",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Peace.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Peace"
+    },
+    "setup - back up": {
+      "name": "setup - back up",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Back up.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Back up"
+    },
+    "setup - basic settings": {
+      "name": "setup - basic settings",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Basic Settings.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Basic Settings"
+    },
+    "setup - get help": {
+      "name": "setup - get help",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Get Help.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Get Help"
+    },
+    "setup - install": {
+      "name": "setup - install",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Install.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Install"
+    },
+    "setup - restore": {
+      "name": "setup - restore",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Restore.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Restore"
+    },
+    "setup - uninstall": {
+      "name": "setup - uninstall",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Peace\\Setup - Uninstall.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Setup - Uninstall"
+    },
+    "process hacker 2": {
+      "name": "process hacker 2",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Process Hacker 2\\Process Hacker 2.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Process Hacker 2"
+    },
+    "uninstall process hacker 2": {
+      "name": "uninstall process hacker 2",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Process Hacker 2\\Uninstall Process Hacker 2.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall Process Hacker 2"
+    },
+    "changelog": {
+      "name": "changelog",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Process Hacker 2\\Help and Support\\Changelog.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Changelog"
+    },
+    "process hacker 2 on the web": {
+      "name": "process hacker 2 on the web",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Process Hacker 2\\Help and Support\\Process Hacker 2 on the Web.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Process Hacker 2 on the Web"
+    },
+    "radmin viewer 3": {
+      "name": "radmin viewer 3",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin VPN\\Radmin Viewer 3.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Radmin Viewer 3"
+    },
+    "radmin vpn": {
+      "name": "radmin vpn",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin VPN\\Radmin VPN.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Radmin VPN"
+    },
+    "snap camera": {
+      "name": "snap camera",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Snap Inc\\Snap Camera.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Snap Camera"
+    },
+    "uninstall snap camera": {
+      "name": "uninstall snap camera",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Snap Inc\\Uninstall Snap Camera.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall Snap Camera"
+    },
+    "steelseries gg": {
+      "name": "steelseries gg",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SteelSeries\\SteelSeries GG\\SteelSeries GG.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "SteelSeries GG"
+    },
+    "super smash flash 2 beta": {
+      "name": "super smash flash 2 beta",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Super Smash Flash 2 Beta\\Super Smash Flash 2 Beta.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Super Smash Flash 2 Beta"
+    },
+    "uninstall super smash flash 2 beta": {
+      "name": "uninstall super smash flash 2 beta",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Super Smash Flash 2 Beta\\Uninstall Super Smash Flash 2 Beta.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall Super Smash Flash 2 Beta"
+    },
+    "task manager": {
+      "name": "task manager",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Task Manager"
+    },
+    "uninstall urbanvpn 5.2.2.8569": {
+      "name": "uninstall urbanvpn 5.2.2.8569",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\UrbanVPN\\Uninstall UrbanVPN 5.2.2.8569.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall UrbanVPN 5.2.2.8569"
+    },
+    "urbanvpn": {
+      "name": "urbanvpn",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\UrbanVPN\\UrbanVPN.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "UrbanVPN"
+    },
+    "documentation": {
+      "name": "documentation",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Documentation"
+    },
+    "release notes": {
+      "name": "release notes",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Release Notes.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Release Notes"
+    },
+    "videolan website": {
+      "name": "videolan website",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VideoLAN Website.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VideoLAN Website"
+    },
+    "vlc media player - reset preferences and cache files": {
+      "name": "vlc media player - reset preferences and cache files",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VLC media player - reset preferences and cache files"
+    },
+    "vlc media player skinned": {
+      "name": "vlc media player skinned",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VLC media player skinned"
+    },
+    "vlc media player": {
+      "name": "vlc media player",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "VLC media player"
+    },
+    "uninstall winpcap 4.1.3": {
+      "name": "uninstall winpcap 4.1.3",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinPcap\\Uninstall WinPcap 4.1.3.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall WinPcap 4.1.3"
+    },
+    "winpcap web site": {
+      "name": "winpcap web site",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinPcap\\WinPcap Web Site.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "WinPcap Web Site"
+    },
+    "bitnami for xampp": {
+      "name": "bitnami for xampp",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\Bitnami for XAMPP.url",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Bitnami for XAMPP"
+    },
+    "uninstall xampp": {
+      "name": "uninstall xampp",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\Uninstall XAMPP.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Uninstall XAMPP"
+    },
+    "xampp control panel": {
+      "name": "xampp control panel",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP Control Panel.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "XAMPP Control Panel"
+    },
+    "xampp htdocs folder": {
+      "name": "xampp htdocs folder",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP htdocs folder.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "XAMPP htdocs folder"
+    },
+    "datos": {
+      "name": "datos",
+      "path": "C:\\Users\\Cliente\\Desktop\\Datos.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Datos"
+    },
+    "escritorio 2": {
+      "name": "escritorio 2",
+      "path": "C:\\Users\\Cliente\\Desktop\\Escritorio 2.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Escritorio 2"
+    },
+    "pc - acceso directo": {
+      "name": "pc - acceso directo",
+      "path": "C:\\Users\\Cliente\\Desktop\\PC - Acceso directo.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "PC - Acceso directo"
+    },
+    "acrord32": {
+      "name": "acrord32",
+      "path": "C:\\Program Files (x86)\\Adobe\\Reader 9.0\\Reader\\AcroRd32.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "AcroRd32"
+    },
+    "gethelp": {
+      "name": "gethelp",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.GetHelp_10.2409.41132.0_x64__8wekyb3d8bbwe\\GetHelp.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "GetHelp"
+    },
+    "iediagcmd": {
+      "name": "iediagcmd",
+      "path": "C:\\Program Files\\Internet Explorer\\iediagcmd.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "iediagcmd"
+    },
+    "iexplore": {
+      "name": "iexplore",
+      "path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "iexplore"
+    },
+    "javaws": {
+      "name": "javaws",
+      "path": "C:\\Program Files\\Java\\jre1.8.0_503\\bin\\javaws.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "javaws"
+    },
+    "lync": {
+      "name": "lync",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\lync.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "lync"
+    },
+    "msaccess": {
+      "name": "msaccess",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSACCESS.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "MSACCESS"
+    },
+    "msedge": {
+      "name": "msedge",
+      "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "msedge"
+    },
+    "msoadfsb": {
+      "name": "msoadfsb",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoadfsb.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "msoadfsb"
+    },
+    "msoasb": {
+      "name": "msoasb",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoasb.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "msoasb"
+    },
+    "msoxmled": {
+      "name": "msoxmled",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\vfs\\ProgramFilesCommonX64\\Microsoft Shared\\OFFICE16\\MSOXMLED.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "MSOXMLED"
+    },
+    "mspub": {
+      "name": "mspub",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSPUB.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "MSPUB"
+    },
+    "olk": {
+      "name": "olk",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2026.520.0_x64__8wekyb3d8bbwe\\olk.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "olk"
+    },
+    "powerpnt": {
+      "name": "powerpnt",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "POWERPNT"
+    },
+    "py": {
+      "name": "py",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\py.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "py"
+    },
+    "pymanager": {
+      "name": "pymanager",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\pymanager.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "pymanager"
+    },
+    "python": {
+      "name": "python",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\python.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "python"
+    },
+    "python3": {
+      "name": "python3",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\python3.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "python3"
+    },
+    "pythonw": {
+      "name": "pythonw",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\pythonw.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "pythonw"
+    },
+    "pyw": {
+      "name": "pyw",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\pyw.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "pyw"
+    },
+    "pywmanager": {
+      "name": "pywmanager",
+      "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.1.240.0_x64__3847v3x7pw1km\\pywmanager.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "pywmanager"
+    },
+    "sdxhelper": {
+      "name": "sdxhelper",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SDXHelper.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "SDXHelper"
+    },
+    "skypeserver": {
+      "name": "skypeserver",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SkypeSrv\\SKYPESERVER.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "SKYPESERVER"
+    },
+    "store": {
+      "name": "store",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_22606.1401.7.0_x64__8wekyb3d8bbwe\\store.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "store"
+    },
+    "systeminformer": {
+      "name": "systeminformer",
+      "path": "C:\\Program Files\\SystemInformer\\SystemInformer.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "SystemInformer"
+    },
+    "vlc": {
+      "name": "vlc",
+      "path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "vlc"
+    },
+    "windowspackagemanagerserver": {
+      "name": "windowspackagemanagerserver",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.29.280.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "WindowsPackageManagerServer"
+    },
+    "winget": {
+      "name": "winget",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.29.280.0_x64__8wekyb3d8bbwe\\winget.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "winget"
+    },
+    "winproj": {
+      "name": "winproj",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINPROJ.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "WINPROJ"
+    },
+    "winword": {
+      "name": "winword",
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "WINWORD"
+    },
+    "code": {
+      "name": "code",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "Code"
+    },
+    "skype": {
+      "name": "skype",
+      "path": "C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_15.150.3125.0_x64__kzf8qxf38zg5c\\Skype\\Skype.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "app_paths",
+      "display_name": "Skype"
+    },
+    "autohotkeyux": {
+      "name": "autohotkeyux",
+      "path": "C:\\Program Files\\AutoHotkey\\UX\\AutoHotkeyUX.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "AutoHotkey"
+    },
+    "cpuz": {
+      "name": "cpuz",
+      "path": "C:\\Program Files\\CPUID\\CPU-Z\\cpuz.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "CPUID CPU-Z 2.20.2"
+    },
+    "droidcam": {
+      "name": "droidcam",
+      "path": "C:\\Program Files\\DroidCam\\Client\\bin\\64bit\\droidcam.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "DroidCam Client"
+    },
+    "git-for-windows": {
+      "name": "git-for-windows",
+      "path": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Git"
+    },
+    "mspaint": {
+      "name": "mspaint",
+      "path": "C:\\Windows\\System32\\mspaint.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "mspaint"
+    },
+    "mstsc": {
+      "name": "mstsc",
+      "path": "C:\\Windows\\System32\\mstsc.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "mstsc"
+    },
+    "onedrivesetup": {
+      "name": "onedrivesetup",
+      "path": "C:\\Program Files\\Microsoft OneDrive\\26.153.0809.0004\\OneDriveSetup.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft OneDrive"
+    },
+    "processhacker": {
+      "name": "processhacker",
+      "path": "C:\\Program Files\\Process Hacker 2\\ProcessHacker.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Process Hacker 2.39 (r124)"
+    },
+    "officeclicktorun": {
+      "name": "officeclicktorun",
+      "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Project Professional 2016 - en-us"
+    },
+    "snippingtool": {
+      "name": "snippingtool",
+      "path": "C:\\Windows\\System32\\SnippingTool.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "SnippingTool"
+    },
+    "a4ce7b163832f35ffcbf560ca40974bccd5d4cd5": {
+      "name": "a4ce7b163832f35ffcbf560ca40974bccd5d4cd5",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\a4ce7b163832f35ffcbf560ca40974bccd5d4cd5.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Terraria"
+    },
+    "76b979640856f9936435a5d643538294b9130db6": {
+      "name": "76b979640856f9936435a5d643538294b9130db6",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\76b979640856f9936435a5d643538294b9130db6.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Trombone Champ"
+    },
+    "be1d6e0eb00e75822a377651084ac8b3cb019deb": {
+      "name": "be1d6e0eb00e75822a377651084ac8b3cb019deb",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\be1d6e0eb00e75822a377651084ac8b3cb019deb.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "tModLoader"
+    },
+    "bbe96690cdb520dce62d26ac43e913c8c1682a04": {
+      "name": "bbe96690cdb520dce62d26ac43e913c8c1682a04",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\bbe96690cdb520dce62d26ac43e913c8c1682a04.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "VTube Studio"
+    },
+    "c807ea593df8d2a40cda2b0a934555d70f7581d1": {
+      "name": "c807ea593df8d2a40cda2b0a934555d70f7581d1",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\c807ea593df8d2a40cda2b0a934555d70f7581d1.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "OBS Studio"
+    },
+    "e28f8fb0bd66076438f860fd3f5cc493abd6aacd": {
+      "name": "e28f8fb0bd66076438f860fd3f5cc493abd6aacd",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\e28f8fb0bd66076438f860fd3f5cc493abd6aacd.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Batman™: Arkham Origins"
+    },
+    "7a854cdf0c43c792e9640fd26e7f40d520031d75": {
+      "name": "7a854cdf0c43c792e9640fd26e7f40d520031d75",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\7a854cdf0c43c792e9640fd26e7f40d520031d75.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Resident Evil 5"
+    },
+    "5b04ab787b900ca6b8dc005b686ef9ed237cd945": {
+      "name": "5b04ab787b900ca6b8dc005b686ef9ed237cd945",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\5b04ab787b900ca6b8dc005b686ef9ed237cd945.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "PAYDAY 2"
+    },
+    "7da9736826af2460e353f4196b67f23cd0cd685b": {
+      "name": "7da9736826af2460e353f4196b67f23cd0cd685b",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\7da9736826af2460e353f4196b67f23cd0cd685b.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Hotline Miami"
+    },
+    "b64062ca5c5610c0754686e5e7c05eba76bd6b4d": {
+      "name": "b64062ca5c5610c0754686e5e7c05eba76bd6b4d",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\b64062ca5c5610c0754686e5e7c05eba76bd6b4d.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Sven Co-op"
+    },
+    "c05905cbf26020ffefcae9b39038d9ad523e2d68": {
+      "name": "c05905cbf26020ffefcae9b39038d9ad523e2d68",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\c05905cbf26020ffefcae9b39038d9ad523e2d68.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Overwatch®"
+    },
+    "8f48620805a37de0206fac8897f66022675a5789": {
+      "name": "8f48620805a37de0206fac8897f66022675a5789",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\8f48620805a37de0206fac8897f66022675a5789.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Dying Light"
+    },
+    "0efcad2e64f6bb72a2ea3b12ab48e310832a2064": {
+      "name": "0efcad2e64f6bb72a2ea3b12ab48e310832a2064",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\0efcad2e64f6bb72a2ea3b12ab48e310832a2064.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Gang Beasts"
+    },
+    "5d4aae691eeae11a505e797a318bad5f2439636e": {
+      "name": "5d4aae691eeae11a505e797a318bad5f2439636e",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\5d4aae691eeae11a505e797a318bad5f2439636e.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+    },
+    "9a1ae28d3cf14b285a7bea4e2acedc83360c47fd": {
+      "name": "9a1ae28d3cf14b285a7bea4e2acedc83360c47fd",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\9a1ae28d3cf14b285a7bea4e2acedc83360c47fd.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "R.E.P.O."
+    },
+    "01b545c997d68f6c4ac18ccef6c57d1d5d690e03": {
+      "name": "01b545c997d68f6c4ac18ccef6c57d1d5d690e03",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\01b545c997d68f6c4ac18ccef6c57d1d5d690e03.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Garry's Mod"
+    },
+    "e696036189b2e264276e0ba1d16b9c139bd9f936": {
+      "name": "e696036189b2e264276e0ba1d16b9c139bd9f936",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\e696036189b2e264276e0ba1d16b9c139bd9f936.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "POSTAL Redux"
+    },
+    "ddb9ee8cf316e018b3bb4d816e094128556d1f0b": {
+      "name": "ddb9ee8cf316e018b3bb4d816e094128556d1f0b",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\ddb9ee8cf316e018b3bb4d816e094128556d1f0b.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Golf With Your Friends"
+    },
+    "2a04ec0f8a942eeb7d0584a44dbe33f99c325d36": {
+      "name": "2a04ec0f8a942eeb7d0584a44dbe33f99c325d36",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\2a04ec0f8a942eeb7d0584a44dbe33f99c325d36.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Beholder"
+    },
+    "f8b14ff5d22ba51dfc3a05b895d469f215a5e5aa": {
+      "name": "f8b14ff5d22ba51dfc3a05b895d469f215a5e5aa",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\f8b14ff5d22ba51dfc3a05b895d469f215a5e5aa.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Human Fall Flat"
+    },
+    "a0f5a65456333209f2d13e1480168d0f9b292e45": {
+      "name": "a0f5a65456333209f2d13e1480168d0f9b292e45",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\a0f5a65456333209f2d13e1480168d0f9b292e45.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Left 4 Dead 2 Authoring Tools"
+    },
+    "9616da3910a54c9e9c90e9f8d64e46e6a67ab066": {
+      "name": "9616da3910a54c9e9c90e9f8d64e46e6a67ab066",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\9616da3910a54c9e9c90e9f8d64e46e6a67ab066.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Billar 3D - Pool"
+    },
+    "d991f95d96e1c76d2acb944bb09447628cd96caa": {
+      "name": "d991f95d96e1c76d2acb944bb09447628cd96caa",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\d991f95d96e1c76d2acb944bb09447628cd96caa.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Half-Life"
+    },
+    "2189f214b66d28d10fed281c2a7e4e67b858cc6b": {
+      "name": "2189f214b66d28d10fed281c2a7e4e67b858cc6b",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\2189f214b66d28d10fed281c2a7e4e67b858cc6b.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Worms Ultimate Mayhem"
+    },
+    "566ae07473b877f0450bef7193ae08dedb00108a": {
+      "name": "566ae07473b877f0450bef7193ae08dedb00108a",
+      "path": "D:\\Program Files (x86)\\Steam\\steam\\games\\566ae07473b877f0450bef7193ae08dedb00108a.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Blasphemous"
+    },
+    "urbanvpnapp": {
+      "name": "urbanvpnapp",
+      "path": "C:\\Windows\\Installer\\{7998CAE9-FE17-41C2-97D8-294C383653A3}\\urbanvpnapp.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "UrbanVPN"
+    },
+    "vbcable_setup_x64": {
+      "name": "vbcable_setup_x64",
+      "path": "C:\\Program Files\\VB\\CABLE\\VBCABLE_Setup_x64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "VBCABLE, The Virtual Audio Cable"
+    },
+    "xampp": {
+      "name": "xampp",
+      "path": "C:\\xampp\\install\\xampp.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "XAMPP"
+    },
+    "smoredboard logo again square": {
+      "name": "smoredboard logo again square",
+      "path": "C:\\Program Files\\SmoredBoard\\smoredboard logo again square.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "SmoredBoard version 1.0.4.7"
+    },
+    "asc": {
+      "name": "asc",
+      "path": "C:\\Program Files (x86)\\IObit\\Advanced SystemCare\\ASC.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Advanced SystemCare"
+    },
+    "driverbooster": {
+      "name": "driverbooster",
+      "path": "C:\\Program Files (x86)\\IObit\\Driver Booster\\13.3.0\\DriverBooster.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Driver Booster 13"
+    },
+    "droidcamapp": {
+      "name": "droidcamapp",
+      "path": "C:\\Program Files (x86)\\DroidCam\\DroidCamApp.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "DroidCam Client"
+    },
+    "msedgewebview2": {
+      "name": "msedgewebview2",
+      "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\151.0.4129.107\\msedgewebview2.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "WebView2 Runtime de Microsoft Edge"
+    },
+    "multi theft auto": {
+      "name": "multi theft auto",
+      "path": "C:\\Program Files (x86)\\MTA San Andreas 1.6\\Multi Theft Auto.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "MTA:SA v1.6.0"
+    },
+    "oalinst": {
+      "name": "oalinst",
+      "path": "C:\\Program Files (x86)\\OpenAL\\Oalinst.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "OpenAL"
+    },
+    "parsecd": {
+      "name": "parsecd",
+      "path": "C:\\Program Files\\Parsec\\parsecd.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Parsec"
+    },
+    "launcher": {
+      "name": "launcher",
+      "path": "D:\\Program Files (x86)\\Launcher.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Rockstar Games Launcher"
+    },
+    "uninstallrgscredistributable": {
+      "name": "uninstallrgscredistributable",
+      "path": "C:\\Program Files\\Rockstar Games\\Social Club\\uninstallRGSCRedistributable.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Rockstar Games SDK"
+    },
+    "voicemeetersetup": {
+      "name": "voicemeetersetup",
+      "path": "C:\\Program Files (x86)\\VB\\Voicemeeter\\VoicemeeterSetup.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Voicemeeter, The Virtual Mixing Console"
+    },
+    "womicclient": {
+      "name": "womicclient",
+      "path": "C:\\Program Files (x86)\\WOMic\\WOMicClient.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "WO Mic Client"
+    },
+    "vcredist_x64": {
+      "name": "vcredist_x64",
+      "path": "C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+    },
+    "windowsdesktop-runtime-6.0.36-win-x64": {
+      "name": "windowsdesktop-runtime-6.0.36-win-x64",
+      "path": "C:\\ProgramData\\Package Cache\\{0532b8f2-12d7-43de-95fc-7b87006758a8}\\windowsdesktop-runtime-6.0.36-win-x64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)"
+    },
+    "4kvideodownloaderplus_26.1.1_x64_online": {
+      "name": "4kvideodownloaderplus_26.1.1_x64_online",
+      "path": "C:\\ProgramData\\Package Cache\\{0c5e71cc-4e69-456c-9488-0f31de2a1307}\\4kvideodownloaderplus_26.1.1_x64_online.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "4K Video Downloader+"
+    },
+    "vc_redist.x64": {
+      "name": "vc_redist.x64",
+      "path": "C:\\ProgramData\\Package Cache\\{0e3bb569-69d6-4c34-bff9-c2f81db5e5f0}\\VC_redist.x64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247"
+    },
+    "learnhub": {
+      "name": "learnhub",
+      "path": "C:\\Program Files (x86)\\GestaHub\\LearnHub.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "GestaHub versión 1.0.2"
+    },
+    "vcredist_x86": {
+      "name": "vcredist_x86",
+      "path": "C:\\ProgramData\\Package Cache\\{246dcb72-b18c-4ab9-9de9-8a996296b01d}\\vcredist_x86.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+    },
+    "autokeyboard": {
+      "name": "autokeyboard",
+      "path": "C:\\Program Files (x86)\\Auto Keyboard by MurGee.com\\AutoKeyboard.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Auto Keyboard by MurGee.com v10.6.1"
+    },
+    "windowsdesktop-runtime-10.0.5-win-x64": {
+      "name": "windowsdesktop-runtime-10.0.5-win-x64",
+      "path": "C:\\ProgramData\\Package Cache\\{8208F29E-493C-4B73-BCD7-E3FA085FC1A2}\\windowsdesktop-runtime-10.0.5-win-x64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Windows Desktop Runtime 10.0.5 (x64)"
+    },
+    "vc_redist.x86": {
+      "name": "vc_redist.x86",
+      "path": "C:\\ProgramData\\Package Cache\\{9a6ce18d-11c0-4452-aa35-9f2b8437c686}\\VC_redist.x86.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247"
+    },
+    "gw2.main_win64_retail": {
+      "name": "gw2.main_win64_retail",
+      "path": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\PVZGW2\\GW2.Main_Win64_Retail.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Plants vs Zombies GW2"
+    },
+    "windows10upgraderapp": {
+      "name": "windows10upgraderapp",
+      "path": "C:\\Program Files (x86)\\WindowsInstallationAssistant\\Windows10UpgraderApp.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Asistente para actualización a Windows 10"
+    },
+    "igxpin": {
+      "name": "igxpin",
+      "path": "C:\\Program Files (x86)\\Intel\\Intel(R) Processor Graphics\\uninstall\\igxpin.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Intel(R) Processor Graphics"
+    },
+    "rtlupd64": {
+      "name": "rtlupd64",
+      "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtlUpd64.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Realtek High Definition Audio Driver"
+    },
+    "eaappinstaller": {
+      "name": "eaappinstaller",
+      "path": "C:\\ProgramData\\Package Cache\\{f4b4ef57-c17b-4fe4-9054-55535e9b8358}\\EAappInstaller.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "EA app"
+    },
+    "i4j_extf_6_69g5ss_1kdboqw": {
+      "name": "i4j_extf_6_69g5ss_1kdboqw",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\JDownloader 2\\.install4j\\i4j_extf_6_69g5ss_1kdboqw.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "JDownloader 2"
+    },
+    "app": {
+      "name": "app",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\Medal\\app.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Medal"
+    },
+    "uninstall-miniconda3": {
+      "name": "uninstall-miniconda3",
+      "path": "C:\\Users\\Cliente\\Miniconda3\\Uninstall-Miniconda3.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Miniconda3 py39_23.9.0-0 (Python 3.9.18 64-bit)"
+    },
+    "icon": {
+      "name": "icon",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\Overwolf\\Extensions\\ahpflogoookodlegojjphcjpjaejgghjnfcdjdmi\\1.124.2\\icons\\icon.ico",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Thunderstore Mod Manager"
+    },
+    "robloxplayerinstaller": {
+      "name": "robloxplayerinstaller",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\Roblox\\Versions\\version-e7d81637d42c4b23\\RobloxPlayerInstaller.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Roblox Player for Cliente"
+    },
+    "unins000": {
+      "name": "unins000",
+      "path": "C:\\Users\\Cliente\\AppData\\Local\\Programs\\Ollama\\unins000.exe",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "uninstall_registry",
+      "display_name": "Ollama version 0.33.3"
+    },
+    "steam": {
+      "name": "steam",
+      "path": "C:\\Users\\Cliente\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+      "date": "2026-09-09T01:37:05.991790",
+      "origin": "start_menu_desktop",
+      "display_name": "Steam"
+    }
+  },
+  "last_updated": "2026-09-09T01:37:05.991790"
+}

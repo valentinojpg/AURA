@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-09-16T18:57:17.245348",
+  "typos": {
+    "notepadx": {
+      "target": "notepad",
+      "intent": "close_app",
+      "confidence": 1.0,
+      "layer": 2,
+      "timestamp": "2026-09-16T18:57:17.245348"
+    },
+    "notepa d": {
+      "target": "notepad",
+      "intent": "close_app",
+      "confidence": 1.0,
+      "layer": 2,
+      "timestamp": "2026-09-09T01:21:51.105041"
+    },
+    "note pad": {
+      "target": "notepad",
+      "intent": "close_app",
+      "confidence": 1.0,
+      "layer": 2,
+      "timestamp": "2026-09-09T01:25:59.852149"
+    }
+  }
+}

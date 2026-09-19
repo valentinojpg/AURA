@@ -1,0 +1,32 @@
+{
+  "release_name": "AURA_release_20260919_053917",
+  "product": "AURA — Asistente Universal con Respuesta Automatizada",
+  "internal_name": "Orion",
+  "generated_at": "2026-09-19 05:39:17",
+  "python_target": "3.11",
+  "files_count": 298,
+  "uncompressed_bytes": 80580369,
+  "uncompressed_human": "76.8 MB",
+  "exclusions_applied": [
+    "env/ (.venv) — Entorno virtual portable (reconstruible con setup_env.bat)",
+    ".git/ — Historial de control de versiones git",
+    "logs/ — Archivos de registro y auditoría (*.log, *.log.*)",
+    "__pycache__/ — Cachés compiladas de Python (*.pyc, *.pyo)",
+    "build/, _internal/, dist/ — Archivos temporales de compilación",
+    "assets/backgrounds/cache/ — Frames extraídos y muestras QA (se regeneran del GIF)",
+    "data/tts_cache/ — Caché local de audios sintetizados",
+    "models/stt/ — Modelos locales de faster-whisper (se descargan automáticamente al primer uso)",
+    "*.wav temporales — Audios de prueba y diagnóstico",
+    ".env — Configuración y credenciales locales reales (VERIFICADO: NUNCA incluido)",
+    "data/backups/, data/backup_pre_utf8/ — Respaldos locales de conversaciones",
+    ".pytest_cache, .mypy_cache, .cache — Cachés de herramientas de testing"
+  ],
+  "rebuild_steps": [
+    "1. Descomprimir el archivo ZIP en cualquier ubicación deseada.",
+    "2. Ejecutar setup_env.bat para construir el entorno virtual portable (%~dp0env) e instalar requerimientos.",
+    "3. Copiar .env.example como .env y configurar credenciales si se usan proveedores cloud (Ollama local no requiere API key).",
+    "4. Iniciar con Aura.bat (el modelo STT Whisper tiny se descargará automáticamente a models/stt/ al primer uso de voz).",
+    "5. Opcional: Ejecutar python scripts/make_shortcut.py --desktop para recrear el acceso directo en el Escritorio."
+  ],
+  "hardware_notes": "El peso del entorno virtual reconstruido varía según PyTorch: con CPU oficial pesará ~800 MB - 1 GB; con CUDA (GPU NVIDIA) pesará ~2.5 - 4 GB."
+}

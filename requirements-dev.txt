@@ -1,0 +1,6 @@
+# ============================================================
+# AURA (Orion) — Dependencias de Desarrollo y Calidad
+# ============================================================
+-r requirements.txt
+pytest>=7.0.0
+pyflakes>=3.0.0

@@ -1,0 +1,26 @@
+name: "Modo Programar"
+description: "Configura el entorno de trabajo para programar: abre el editor, el terminal y el navegador con recursos de referencia."
+version: "1.0"
+author: "AURA"
+
+steps:
+  - type: message
+    text: "Iniciando entorno de programación..."
+
+  - type: open_app
+    app: vscode
+
+  - type: delay
+    seconds: 1.5
+
+  - type: open_app
+    app: terminal
+
+  - type: delay
+    seconds: 1.0
+
+  - type: open_url
+    url: https://github.com
+
+  - type: message
+    text: "¡Entorno listo! Editor, terminal y GitHub abiertos."

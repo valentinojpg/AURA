@@ -1,0 +1,51 @@
+# ============================================================
+# AURA (Orion) — Dependencias del Proyecto
+# ============================================================
+# Instalar dentro del entorno portable (%~dp0env):
+#   pip install -r requirements.txt
+# ============================================================
+
+# ── Interfaz de Usuario ─────────────────────────────────────
+# Versión pinneada obligatoria (PROMPT_BASE.md)
+flet==0.86.5
+
+# ── Configuración y Entorno ─────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── Conectividad y Proveedores de IA ────────────────────────
+requests>=2.31.0
+
+# ── Sistema Operativo y Procesos (Win32 & COM) ─────────────
+psutil>=5.9.0
+pywin32>=306
+
+# ── Gestión de Archivos ─────────────────────────────────────
+send2trash>=1.8.2
+
+# ── Motor de Automatizaciones ───────────────────────────────
+pyyaml>=6.0.1
+
+# ── Audio, Reconocimiento y Síntesis de Voz (TTS & RVC) ───────
+sounddevice>=0.5.0
+numpy<=1.23.5
+SpeechRecognition>=3.10.0
+faster-whisper>=1.0.0
+edge-tts>=7.0.0
+rvc-python>=0.1.5
+pyttsx3>=2.90
+imageio-ffmpeg>=0.5.0
+
+# ── Procesamiento de Imágenes y Assets ──────────────────────
+Pillow>=10.0.0
+
+# ── Pruebas y Calidad de Código (Dev) ────────────────────────
+pytest>=7.0.0
+pyflakes>=3.0.0
+
+# ── PyTorch y Cómputo (Torch CPU / CUDA) ─────────────────────
+# Por defecto en entornos sin GPU NVIDIA (CPU-only, recomendado para ahorrar ~2-3 GB):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# En entornos con GPU NVIDIA compatible (RTX/GTX con CUDA):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+

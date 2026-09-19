@@ -1,0 +1,30 @@
+name: "Inicio del Día"
+description: "Abre las aplicaciones y sitios que usás cada mañana para empezar a trabajar."
+version: "1.0"
+author: "AURA"
+
+steps:
+  - type: message
+    text: "Buenos días! Configurando el entorno de trabajo..."
+
+  - type: open_app
+    app: navegador
+
+
+  - type: delay
+    seconds: 1.0
+
+  - type: open_url
+    url: https://mail.google.com
+
+  - type: delay
+    seconds: 0.5
+
+  - type: open_url
+    url: https://calendar.google.com
+
+  - type: open_app
+    app: notepad
+
+  - type: message
+    text: "¡Listo para empezar el día!"

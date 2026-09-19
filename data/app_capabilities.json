@@ -1,0 +1,30 @@
+{
+  "notepad": {
+    "write": "clipboard",
+    "read": "win32_edit"
+  },
+  "word": {
+    "write": "com",
+    "read": "com",
+    "save_as": "com"
+  },
+  "excel": {
+    "write": "com",
+    "read": "com",
+    "save_as": "com"
+  },
+  "discord": {
+    "write": "clipboard",
+    "read": null,
+    "focus_hint": ""
+  },
+  "code": {
+    "write": "clipboard",
+    "read": null,
+    "focus_hint": ""
+  },
+  "spotify": {
+    "write": null,
+    "read": null
+  }
+}

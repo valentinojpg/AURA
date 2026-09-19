@@ -1,0 +1,71 @@
+"""
+AURA — Módulo de Interfaz y Temas (Fase 76)
+"""
+
+from aura.ui.color_utils import (
+    hex_to_rgb,
+    rgb_to_hex,
+    rgb_to_hsl,
+    hsl_to_rgb,
+    hex_to_hsl,
+    hsl_to_hex,
+    rotate_hue,
+    adjust_hsl,
+    hex_with_alpha,
+    relative_luminance,
+    contrast_ratio,
+    get_readable_text_color,
+    derive_mono_palette,
+    derive_analogous_palette,
+    derive_poly_palette,
+    is_valid_hex,
+    normalize_hex,
+)
+from aura.ui.theme_textures import (
+    get_theme_texture_tile,
+    generate_dithering_tile,
+    generate_halftone_tile,
+    get_texture_cache_dir,
+)
+from aura.ui.theme import (
+    STYLE_COLOR_COUNT,
+    STYLE_FAMILIES,
+    THEME_PRESETS,
+    ThemeTokens,
+    ThemeManager,
+    theme_manager,
+    build_theme_tokens,
+    apply_theme,
+)
+
+__all__ = [
+    "hex_to_rgb",
+    "rgb_to_hex",
+    "rgb_to_hsl",
+    "hsl_to_rgb",
+    "hex_to_hsl",
+    "hsl_to_hex",
+    "rotate_hue",
+    "adjust_hsl",
+    "hex_with_alpha",
+    "relative_luminance",
+    "contrast_ratio",
+    "get_readable_text_color",
+    "derive_mono_palette",
+    "derive_analogous_palette",
+    "derive_poly_palette",
+    "is_valid_hex",
+    "normalize_hex",
+    "get_theme_texture_tile",
+    "generate_dithering_tile",
+    "generate_halftone_tile",
+    "get_texture_cache_dir",
+    "STYLE_COLOR_COUNT",
+    "STYLE_FAMILIES",
+    "THEME_PRESETS",
+    "ThemeTokens",
+    "ThemeManager",
+    "theme_manager",
+    "build_theme_tokens",
+    "apply_theme",
+]

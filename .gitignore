@@ -1,0 +1,39 @@
+# .gitignore para AURA (Orion)
+
+# Entorno virtual portable (nunca versionar)
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Logs y datos de usuario
+logs/
+data/conversations/
+data/memory/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Releases y staging (Fase 70)
+ORION_release/
+*_release/
+*.zip
+build/
+_internal/
+dist/
+.pytest_cache/
+data/audio_cache/*.wav
+data/audio_test/*.wav
+data/backups/
+data/backup_pre_utf8/
